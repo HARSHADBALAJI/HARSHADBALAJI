@@ -1,98 +1,57 @@
-# 👋 Hi, I'm Harshad Balaji
+# Harshad Balaji
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:0077FF&height=180&section=header&text=Harshad%20Balaji&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<p align="center">
-  <b>Backend Developer | Java | Data Structures</b>
-</p>
+Backend Developer | Java | Data Structures  
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE (AI/ML) student at Christ University (CGPA: 9.49)
-- 💻 Backend-focused developer skilled in **Java, DSA, and database systems**
-- 💼 Internship experience in **full-stack development & backend APIs**
-- 💡 Built projects in backend systems, web apps, and explored AI/ML concepts
-- ⚡ Passionate about writing clean, efficient, and scalable code
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshad31/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🗄️ Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## 👨‍💻 About Me
+- B.Tech CSE (AI/ML), Christ University (CGPA: 9.49)  
+- Backend-focused developer with strong fundamentals in **Java, DSA, and DBMS**  
+- Internship experience in **full-stack development and backend APIs**  
+- Interested in building **reliable backend systems and solving real-world problems**  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 Core Banking System
-- Built a **Java-based backend system** for handling transactions  
-- Designed relational database schema using **MySQL**  
-- Focused on data consistency and transaction handling  
+### 🏦 Core Banking System  
+- Designed a backend system in **Java + MySQL** for handling transactions  
+- Implemented structured data models and transaction logic  
+- Focused on consistency and reliability  
+
+### ☕ Cafe POS System  
+- Built a **Java-based POS system** with billing and inventory features  
+- Implemented real-time calculations and structured data handling  
+
+### 🔐 Security Toolkit  
+- Developed backend tools using **Python**  
+- Includes packet analysis and password validation utilities  
 
 ---
 
-### ☕ Cafe POS System
-- Developed a **Java-based POS system**  
-- Implemented billing logic and inventory tracking  
-- Designed for real-time updates and usability  
+## 🛠️ Skills
 
----
-
-### 🔐 Security Toolkit
-- Created backend tools using **Python**  
-- Includes packet sniffing and password validation utilities  
-- Focused on basic cybersecurity simulations  
+**Languages:** Java, Python, C  
+**Core:** Data Structures & Algorithms, DBMS  
+**Web:** HTML, CSS, JavaScript  
+**Tools:** Git, GitHub, VS Code, MySQL  
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHADBALAJI&theme=tokyonight&hide_border=true" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=HARSHADBALAJI&hide_border=true)
 
 ---
 
-## ⚡ Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHADBALAJI&theme=tokyo-night&hide_border=true"/>
+## 📫 Contact
+- Email: your-email@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/harshad31/  
 
 ---
 
-## 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=HARSHADBALAJI&theme=tokyonight&no-frame=true&no-bg=true"/>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## 🎯 Current Focus
+- Improving Data Structures & Algorithms  
+- Building backend-focused projects  
+- Preparing for software engineering internships  
