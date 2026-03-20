@@ -15,11 +15,11 @@
 ![Coding GIF](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif)
 
 ### 👨‍💻 About Me
-- 🎓 CS Student specializing in **Backend Engineering**, **Scalable APIs**, and **Robust Databases**.
-- 💼 Completed software development and cyber security internships at **Cresta Core** and **Prodigy Infotech**.
-- 💡 Actively building transactional backend structures using **Java** & **Python** to solve real-world problems.
-- ⚡ **Fun fact:** I love combining creative problem-solving with low-level systems engineering!
-
+🎓 B.Tech CSE (AI/ML) student at Christ University (CGPA: 9.49)
+💻 Backend-focused developer working with Java, Data Structures, and DBMS
+💼 Internship experience in full-stack development and cybersecurity (CrestaCore, 1M1B/Prodigy Infotech)
+💡 Building backend and database-driven applications while strengthening problem-solving skills
+⚡ Fun fact: I enjoy solving logical problems and writing clean, efficient code
 <br><br>
 
 ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -61,8 +61,14 @@
 
 ![HARSHADBALAJI's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHADBALAJI&theme=dracula&hide_border=true)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HARSHADBALAJI&theme=dracula&no-frame=true&no-bg=true)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARSHADBALAJI&theme=onestar&no-frame=true&no-bg=true"/>
+</p>
 
-<br>
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=Profile%20Views&color=0e75b6&style=flat)   
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
+## 🐍 Contribution Snake  
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
