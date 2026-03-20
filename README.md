@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Engineer;Cyber+Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Engineer;Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -18,10 +18,10 @@
 <img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif">
 
 ### 👨‍💻 About Me
-- 🎓 I’m currently exploring **Full-Stack Engineering**, **Cybersecurity**, and **Intuitive UI/UX Design**.
-- 💼 Completed an internship at **[Cresta Core](#)** focusing on Web Development, and **[Prodigy Infotech](#)** focusing on Cyber Security.
-- 💡 Actively working on **Web Applications**, **Information Security Tools**, and **Desktop GUIs**.
-- ⚡ **Fun fact**: I love combining creative design with robust backend engineering!
+- 🎓 CS Student specializing in **Backend Engineering**, **Scalable APIs**, and **Robust Databases**.
+- 💼 Completed software development and cyber security internships at **[Cresta Core](#)** and **[Prodigy Infotech](#)**.
+- 💡 Actively building transactional backend structures using **Java** & **Python** to solve real-world problems.
+- ⚡ **Fun fact:** I love combining creative problem-solving with low-level systems engineering!
 
 <br><br>
 
@@ -29,19 +29,19 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Highlighted Backend Projects
 
-| 🌐 [Cresta Core Web Dev](https://github.com/HARSHADBALAJI/CRESTA_CORE_INTERNSHIP_FULL_STACK_WEB_DEVELOPMENT) | 🛡️ [Prodigy Cyber Security](https://github.com/HARSHADBALAJI/PRODIGY_INFOTECH_INTERNSHIP_CYBER_SECURITY) | ☕ [Java Swing Cafe GUI](https://github.com/HARSHADBALAJI/3RD_SEM_MINI_PROJECT_JAVA_SWING_CAFE_COFFEE_SHOP_GUI) |
+| 🏦 [Core Banking System](https://github.com/HARSHADBALAJI/core-banking-api) | ☕ [Cafe POS API](https://github.com/HARSHADBALAJI/cafe-pos-system) | 🔐 [Security Tools](https://github.com/HARSHADBALAJI/python-security-toolkit) |
 |:---|:---|:---|
-| Designed and deployed a responsive personal portfolio landing page using semantic HTML, CSS3 layouts, and vanilla JavaScript. | Built 5 core tools including an active keystroke logger, a packet sniffer, and encrypted Caesar ciphers using Python programming. | Created a completely functional and aesthetic desktop shop management and billing system natively designed in Java Swing. |
+| Designed a transactional banking backend. Built natively with **Java** and **MySQL**, featuring robust relational schema design and ACID compliance principles. | Developed a robust Point of Sale (POS) system focusing on real-time inventory management and dynamic billing calculations natively in Java. | Created a suite of backend Python tools including packet sniffers and password complexity validators for threat simulation. |
 
 ---
 
