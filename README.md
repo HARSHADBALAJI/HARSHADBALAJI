@@ -15,7 +15,7 @@
 ![Coding GIF](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif)
 
 ### 👨‍💻 About Me
-🎓 B.Tech CSE (AI/ML) student at Christ University (CGPA: 9.49)
+🎓 B.Tech CSE (AI/ML) student at Christ University \n
 💻 Backend-focused developer working with Java, Data Structures, and DBMS
 💼 Internship experience in full-stack development and cybersecurity (CrestaCore, 1M1B/Prodigy Infotech)
 💡 Building backend and database-driven applications while strengthening problem-solving skills
