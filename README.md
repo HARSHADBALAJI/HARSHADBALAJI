@@ -1,4 +1,4 @@
-# 🎉 Welcome to my Profile!
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&animation=fadeIn" alt="Header" />
 </p>
