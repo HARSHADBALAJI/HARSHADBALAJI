@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&animation=fadeIn" />
+</div>
+
 <h1 align="center">Hi there, I'm Harshada Balaji! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h3 align="center">
@@ -15,7 +19,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif">
+<img align="right" alt="Coding GIF" width="350" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif">
 
 ### 👨‍💻 About Me
 - 🎓 CS Student specializing in **Backend Engineering**, **Scalable APIs**, and **Robust Databases**.
@@ -25,17 +29,31 @@
 
 <br><br>
 
-### 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40" alt="Java"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>&nbsp;&nbsp;
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
----
+### 🛠️ Languages & Tech Stack
+
+**Programming Languages:**
+<br>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+**Frontend & Design:**
+<br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+**Databases & Tools:**
+<br>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+<br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🚀 Highlighted Backend Projects
 
@@ -43,21 +61,25 @@
 |:---|:---|:---|
 | Designed a transactional banking backend. Built natively with **Java** and **MySQL**, featuring robust relational schema design and ACID compliance principles. | Developed a robust Point of Sale (POS) system focusing on real-time inventory management and dynamic billing calculations natively in Java. | Created a suite of backend Python tools including packet sniffers and password complexity validators for threat simulation. |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&theme=react&hide_border=true" alt="HARSHADBALAJI's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHADBALAJI&theme=react&hide_border=true" alt="HARSHADBALAJI's Streak Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&theme=ocean_dark&hide_border=true" alt="HARSHADBALAJI's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARSHADBALAJI&theme=ocean_dark&hide_border=true" alt="HARSHADBALAJI's Streak Stats" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHADBALAJI&theme=react-dark&hide_border=true" alt="HARSHADBALAJI's Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARSHADBALAJI&theme=dracula&hide_border=true" alt="HARSHADBALAJI's Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARSHADBALAJI&theme=dracula&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=Profile%20Views&color=0e75b6&style=flat" alt="HARSHADBALAJI Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
 </div>
