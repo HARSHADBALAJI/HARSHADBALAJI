@@ -15,11 +15,11 @@
 ![Coding GIF](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif)
 
 ### 👨‍💻 About Me
-🎓 B.Tech CSE (AI/ML) student at Christ University \n
-💻 Backend-focused developer working with Java, Data Structures, and DBMS
-💼 Internship experience in full-stack development and cybersecurity (CrestaCore, 1M1B/Prodigy Infotech)
-💡 Building backend and database-driven applications while strengthening problem-solving skills
-⚡ Fun fact: I enjoy solving logical problems and writing clean, efficient code
+🎓 B.Tech CSE (AI/ML) student at Christ University<br>
+<br>💻 Backend-focused developer working with Java, Data Structures, and DBMS
+<br>💼 Internship experience in full-stack development and cybersecurity (CrestaCore, 1M1B/Prodigy Infotech)
+<br>💡 Building backend and database-driven applications while strengthening problem-solving skills
+<br>⚡ Fun fact: I enjoy solving logical problems and writing clean, efficient code
 <br><br>
 
 ![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
@@ -68,7 +68,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=PROFILE%20VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
-## 🐍 Contribution Snake  
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
