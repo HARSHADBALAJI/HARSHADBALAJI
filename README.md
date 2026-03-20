@@ -1,22 +1,68 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00000000&height=100&section=header&text=Harshad%20Balaji&fontSize=50&fontColor=3B82F6&desc=Backend%20Engineering%20%7C%20AI%20%26%20ML%20%7C%20Quantum%20Computing&descAlignY=75&descSize=20" alt="Header" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=777777&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Student+@+CHRIST+University;Focusing+on+Scalable+Backend+Systems;Exploring+Quantum+Computing+Applications" alt="Typing SVG" />
-</a>
-
+# 🎉 Welcome to my Profile!
 <p align="center">
-  <b>Bridging complex backend logic with modern AI/ML and systems engineering.</b><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&animation=fadeIn" alt="Header" />
 </p>
 
-<a href="https://www.linkedin.com/in/harshadabalaji/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+# Hi there, I'm Harshad Balaji! ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Software+Developer;Backend+Engineer;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshadabalaji/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+![Coding GIF](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif)
+
+### 👨‍💻 About Me
+- 🎓 CS Student specializing in **Backend Engineering**, **Scalable APIs**, and **Robust Databases**.
+- 💼 Completed software development and cyber security internships at **Cresta Core** and **Prodigy Infotech**.
+- 💡 Actively building transactional backend structures using **Java** & **Python** to solve real-world problems.
+- ⚡ **Fun fact:** I love combining creative problem-solving with low-level systems engineering!
+
 <br><br>
-</div>
 
----
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### ⚙️ Engineering Flow & Mindset
-```text
-[ Architectural Design ] ➔ [ Data Structures ] ➔ [ Relational Integrity ] ➔ [ Scalable Execution ]
+### 🛠️ Languages & Tech Stack
+
+**Programming Languages:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend & Design:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases & Tools:**  
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### 🚀 Highlighted Backend Projects
+
+| 🏦 [Core Banking System](https://github.com/HARSHADBALAJI/core-banking-api) | ☕ [Cafe POS API](https://github.com/HARSHADBALAJI/cafe-pos-system) | 🔐 [Security Tools](https://github.com/HARSHADBALAJI/python-security-toolkit) |
+|:---|:---|:---|
+| Designed a transactional banking backend. Built natively with **Java** and **MySQL**, featuring robust relational schema design and ACID compliance principles. | Developed a robust Point of Sale (POS) system focusing on real-time inventory management and dynamic billing calculations natively in Java. | Created a suite of backend Python tools including packet sniffers and password complexity validators for threat simulation. |
+
+![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+### 📊 GitHub Activity & Stats
+
+![HARSHADBALAJI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&theme=ocean_dark&hide_border=true)  
+![HARSHADBALAJI's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HARSHADBALAJI&theme=ocean_dark&hide_border=true)
+
+![HARSHADBALAJI's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHADBALAJI&theme=dracula&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=HARSHADBALAJI&theme=dracula&no-frame=true&no-bg=true)
+
+<br>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=HARSHADBALAJI&label=Profile%20Views&color=0e75b6&style=flat)   
