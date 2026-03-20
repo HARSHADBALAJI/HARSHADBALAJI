@@ -2,7 +2,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Engineer;Cyber+Security+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Engineer;Cyber+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif">
 
 ### 👨‍💻 About Me
 - 🎓 I’m currently exploring **Full-Stack Engineering**, **Cybersecurity**, and **Intuitive UI/UX Design**.
