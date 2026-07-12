@@ -114,17 +114,6 @@ Collection of Python-based cybersecurity tools.
 - 🔐 **Cybersecurity Foundations** — LinkedIn Learning
 - ☁️ Learning and exploring **AI, Cloud, Quantum Computing, and Enterprise Applications**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHADBALAJI&layout=compact&hide_border=true" height="165" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshad_Balaji-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad31/)
