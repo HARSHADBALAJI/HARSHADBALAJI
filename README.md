@@ -1,69 +1,148 @@
+# Hi, I'm Harshad Balaji 👋
+
+I'm a **B.Tech Computer Science Engineering student specializing in AI & Machine Learning** at **CHRIST University** (graduating 2027), with an academic focus on **Quantum Computing**.
+
+Currently working as an **AI/ML Intern at Larsen & Toubro — Transportation & Infrastructure IC, Digital Team**, where I contribute to enterprise applications and AI-powered solutions for quality management, workflow automation, analytics, and large-scale infrastructure projects.
+
+I build practical **AI systems, backend applications, and data-driven solutions** — with interests in **Generative AI, Machine Learning, Enterprise AI, and Quantum Computing**.
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+| Area | Technologies |
+|---|---|
+| **AI / ML** | Machine Learning, Generative AI, RAG, LLM Integration |
+| **Languages** | Python, Java, C, JavaScript |
+| **Frontend** | React, Vite, HTML, CSS |
+| **Backend** | Python, FastAPI, REST APIs, Java |
+| **Databases** | SQL Server, MySQL |
+| **Data & Analytics** | Power BI, Pandas, NumPy |
+| **Quantum Computing** | Qiskit, Quantum Algorithms, Quantum Error Correction |
+| **Tools** | Git, GitHub, VS Code |
+
+---
+
+## 💼 Experience
+
+### AI/ML Intern — Larsen & Toubro
+*Transportation & Infrastructure IC — Digital Team | Apr 2026 – Jul 2026*
+
+- Contributing to enterprise applications and **AI-powered solutions** for large-scale infrastructure projects.
+- Working on systems involving **quality management, workflow automation, analytics, and AI-assisted decision making**.
+- Building solutions using **AI/ML, backend APIs, databases, Power BI, and modern web technologies**.
+
+### Cybersecurity Intern — Prodigy Infotech
+*Mar 2024 – Apr 2024*
+
+- Developed security-focused applications including a **Caesar Cipher**, **image encryption tool**, and **password complexity checker**.
+- Explored fundamental concepts in **cryptography, secure programming, and cybersecurity**.
+
+---
+
+## 🚀 Featured Projects
+
+### ⭐ AI Knowledge Management Copilot
+
+Enterprise AI assistant designed to retrieve and generate answers from organizational knowledge.
+
+- Built around **Retrieval-Augmented Generation (RAG)** architecture.
+- Uses embeddings and vector databases for context-aware information retrieval.
+- Designed for enterprise knowledge discovery and AI-assisted decision making.
+
+`Python` `RAG` `LLM` `Vector Database` `Generative AI`
+
+---
+
+### 📊 AI-Powered Unified Analytics System
+
+Conversational analytics system designed for interacting with enterprise data and Power BI dashboards.
+
+- Designed a **ChatGPT-style interface** for querying business data.
+- Supports context-aware responses based on dashboard data and filters.
+- Architecture integrates data sources, backend APIs, AI models, and visualization.
+
+`Python` `FastAPI` `React` `Power BI` `LLM`
+
+---
+
+### 🏗️ Material Requisition Management System
+
+Enterprise workflow application for managing the complete lifecycle of material requisitions.
+
+- Designed workflows for requisition, validation, production, dispatch, and reconciliation.
+- Uses unique identifiers to track each request throughout its lifecycle.
+- Supports operational analytics such as wastage and turnaround-time analysis.
+
+`React` `Python` `SQL` `REST API`
+
+---
+
+### ⚛️ Quantum Error Correction — 3-Qubit Bit-Flip Code
+
+Implementation and study of quantum error correction using Qiskit.
+
+- Simulated bit-flip errors in quantum circuits.
+- Implemented quantum encoding, error detection, and correction.
+- Explored techniques for improving reliability in quantum computation.
+
+`Python` `Qiskit` `Quantum Computing`
+
+---
+
+### 🏦 [Core Banking System](https://github.com/HARSHADBALAJI/core-banking-api)
+
+Transactional banking backend designed using Java and MySQL.
+
+- Designed a relational database structure for banking operations.
+- Applied transaction management and ACID principles.
+- Focused on backend architecture and database consistency.
+
+`Java` `MySQL` `Backend Development`
+
+---
+
+### 🔐 [Python Security Toolkit](https://github.com/HARSHADBALAJI/python-security-toolkit)
+
+Collection of Python-based cybersecurity tools.
+
+- Password complexity validation.
+- Encryption and security utilities.
+- Built to explore practical cybersecurity concepts.
+
+`Python` `Cybersecurity`
+
+---
+
+## 🎓 Certifications & Learning
+
+- 🧠 **Python for Data Science** — NPTEL
+- 💻 **Programming, Data Structures and Algorithms using Python** — NPTEL
+- 🤖 **Generative AI Essentials** — Microsoft
+- 🔐 **Cybersecurity Foundations** — LinkedIn Learning
+- ☁️ Learning and exploring **AI, Cloud, Quantum Computing, and Enterprise Applications**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=150&section=header&text=Welcome%20to%20my%20Profile!&fontSize=50&animation=fadeIn" alt="Header" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARSHADBALAJI&layout=compact&hide_border=true" height="165" />
 </p>
 
-# Hi there, I'm Harshad Balaji! ![Wave](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif)
+---
 
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Software+Developer;Building+Career+in+Engineering;Quantum+Computing+Enthusiast)](https://git.io/typing-svg)
+## 📫 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harshad31/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="harshadbalaji.u@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-![Coding GIF](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/coding.gif)
-
-### 👨‍💻 About Me
-🎓 B.Tech CSE (AI/ML) student at Christ University
-<br>💻 Backend-focused developer working with Java, Data Structures, and DBMS
-<br>💼 Internship experience in full-stack development and cybersecurity (CrestaCore, 1M1B/Prodigy Infotech)
-<br>💡 Building backend and database-driven applications while strengthening problem-solving skills
-<br>⚡ Fun fact: I enjoy solving logical problems and writing clean, efficient code
-<br><br>
-
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### 🛠️ Languages & Tech Stack
-
-**Programming Languages:**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frontend & Design:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-**Databases & Tools:**  
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### 🚀 Highlighted Backend Projects
-
-| 🏦 [Core Banking System](https://github.com/HARSHADBALAJI/core-banking-api) | ☕ [Cafe POS API](https://github.com/HARSHADBALAJI/cafe-pos-system) | 🔐 [Security Tools](https://github.com/HARSHADBALAJI/python-security-toolkit) |
-|:---|:---|:---|
-| Designed a transactional banking backend. Built natively with **Java** and **MySQL**, featuring robust relational schema design and ACID compliance principles. | Developed a robust Point of Sale (POS) system focusing on real-time inventory management and dynamic billing calculations natively in Java. | Created a suite of backend Python tools including packet sniffers and password complexity validators for threat simulation. |
-
-![Divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-### 📊 GitHub Activity & Stats
-
-![HARSHADBALAJI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HARSHADBALAJI&show_icons=true&theme=ocean_dark&hide_border=true)  
-![HARSHADBALAJI's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=HARSHADBALAJI&theme=ocean_dark&hide_border=true)
-
-![HARSHADBALAJI's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HARSHADBALAJI&theme=dracula&hide_border=true)
-
-
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshad_Balaji-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad31/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshadbalaji.u@gmail.com)
