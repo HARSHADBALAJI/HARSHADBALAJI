@@ -105,7 +105,7 @@ Collection of Python-based cybersecurity tools.
 - 📈 **CGPA 9.4** — B.Tech CSE (AI/ML), CHRIST University
 - 👔 **Co-Head, Documentation Team — CHRIST University Physical Education Department** — Led documentation operations and served as a key **Point of Contact (POC)** for major university sports events
 - 👕 **Coordinated and monitored the distribution of 2,000+ jerseys**, managing documentation, tracking, and coordination across the distribution process
-- - 📈 **CGPA 9.4** — Academic performance in B.Tech CSE (AI/ML)
+
 ## 🎓 Certifications & Learning
 
 - 🧠 **Python for Data Science** — NPTEL
