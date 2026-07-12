@@ -129,3 +129,4 @@ Collection of Python-based cybersecurity tools.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshad_Balaji-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshad31/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshadbalaji.u@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/6nHgX9akCn/)
