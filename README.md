@@ -1,4 +1,4 @@
-# Hi, I'm Harshad Balaji 👋
+# Hi, I'm Harshad Balaji U👋
 
 I'm a **B.Tech Computer Science Engineering student specializing in AI & Machine Learning** at **CHRIST University** (graduating 2027), with an academic focus on **Quantum Computing**.
 
