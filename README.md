@@ -41,11 +41,11 @@ I build practical **AI systems, backend applications, and data-driven solutions*
 - Working on systems involving **quality management, workflow automation, analytics, and AI-assisted decision making**.
 - Building solutions using **AI/ML, backend APIs, databases, Power BI, and modern web technologies**.
 
-### Cybersecurity Intern — Prodigy Infotech
-*Mar 2024 – Apr 2024*
+### Quantum Research Intern — Chinar Quantum AI
+*Apr 2026 – Present*
 
-- Developed security-focused applications including a **Caesar Cipher**, **image encryption tool**, and **password complexity checker**.
-- Explored fundamental concepts in **cryptography, secure programming, and cybersecurity**.
+- Studying **quantum computing fundamentals, quantum gates, circuits, algorithms, and quantum machine learning**.
+- Participating in technical learning and research discussions on quantum computing concepts.
 
 ---
 
@@ -61,31 +61,7 @@ Enterprise AI assistant designed to retrieve and generate answers from organizat
 
 `Python` `RAG` `LLM` `Vector Database` `Generative AI`
 
----
 
-### 📊 AI-Powered Unified Analytics System
-
-Conversational analytics system designed for interacting with enterprise data and Power BI dashboards.
-
-- Designed a **ChatGPT-style interface** for querying business data.
-- Supports context-aware responses based on dashboard data and filters.
-- Architecture integrates data sources, backend APIs, AI models, and visualization.
-
-`Python` `FastAPI` `React` `Power BI` `LLM`
-
----
-
-### 🏗️ Material Requisition Management System
-
-Enterprise workflow application for managing the complete lifecycle of material requisitions.
-
-- Designed workflows for requisition, validation, production, dispatch, and reconciliation.
-- Uses unique identifiers to track each request throughout its lifecycle.
-- Supports operational analytics such as wastage and turnaround-time analysis.
-
-`React` `Python` `SQL` `REST API`
-
----
 
 ### ⚛️ Quantum Error Correction — 3-Qubit Bit-Flip Code
 
